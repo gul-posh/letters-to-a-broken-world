@@ -19,6 +19,22 @@ you will find proofs, poems, essays, experiments — all tiny attempts at unders
 - 💻 projects — machine learning experiments and code sketches
 
 ---
+## vision
+to create a quiet space where ideas across math, art, and technology can breathe, clash, and coexist — exploring a fragmented world with gentle persistence.
+
+## navigation
+each folder reflects a different stream of exploration. feel free to wander, read, adapt, and build upon these fragments.
+
+## folders
+- `diplomacy/` — essays and reflections on dialogue and humanity
+- `literature/` — poems, metaphors, short prose
+- `mathematics/` — olympiad problems, pure math notes
+- `projects/` — machine learning experiments and code sketches
+
+## license
+this work is shared under the [MIT License](LICENSE) — feel free to use, adapt, and share with attribution.
+
+---
 
 ## current status
 
